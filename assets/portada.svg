@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Dayver Moreta — sistemas e inteligencia artificial local</title>
+<desc id="desc">Portada oscura con una red de nodos verde y el mensaje: conecto infraestructura con inteligencia.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0A1110"/><stop offset="1" stop-color="#142923"/></linearGradient>
+  <linearGradient id="line"><stop stop-color="#63C9A4" stop-opacity=".1"/><stop offset=".5" stop-color="#63C9A4" stop-opacity=".6"/><stop offset="1" stop-color="#63C9A4" stop-opacity=".1"/></linearGradient>
+</defs>
+<rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+<path d="M40 40h1120M40 280h1120" stroke="#7FB79E" stroke-opacity=".17"/>
+<g stroke="#7FB79E" stroke-opacity=".10"><path d="M760 40v240M860 40v240M960 40v240M1060 40v240"/></g>
+<g fill="none" stroke="url(#line)" stroke-width="2">
+ <path d="M738 185 858 100 968 170 1080 94"/>
+ <path d="M858 100 896 240 1040 225 1080 94"/>
+ <path d="M738 185 896 240 968 170 1040 225"/>
+</g>
+<g fill="#8AE3B8"><circle cx="738" cy="185" r="5"/><circle cx="858" cy="100" r="6"/><circle cx="968" cy="170" r="5"/><circle cx="1080" cy="94" r="5"/><circle cx="896" cy="240" r="5"/><circle cx="1040" cy="225" r="6"/></g>
+<circle cx="968" cy="170" r="17" fill="none" stroke="#8AE3B8" stroke-opacity=".38"/>
+<text x="64" y="91" fill="#8AE3B8" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4">DAYVER MORETA / DUVETSILLO</text>
+<text x="62" y="172" fill="#F4FBF7" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Infraestructura</text>
+<text x="62" y="225" fill="#F4FBF7" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">con inteligencia<tspan fill="#8AE3B8">.</tspan></text>
+<text x="64" y="263" fill="#A7C6B8" font-family="Arial, Helvetica, sans-serif" font-size="17">IA local  ·  automatización  ·  experiencias de escritorio</text>
+</svg>
